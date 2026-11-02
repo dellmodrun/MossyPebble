@@ -1,0 +1,14 @@
+{
+  "network": "solana-mainnet-beta",
+  "name": "Mossy Pebble",
+  "symbol": "MOSS",
+  "mint": "yPJvY6tY74JJiUTqu7HU5khSzPQz5EfVwjLmSE9pkYs",
+  "creator": "6y6QaxRzGMQJbrtPxN6LYbQAswwPGSxNWYit4jXVUeYE",
+  "signature": "rgvtFZLkFyPDZ7vWukp6Gu9u99YGmiMnujQG66CPBmFSwTZt2eGpAE5Sj4LzU5TeG8CQsDBzjNc6WHYzJRYYE8H",
+  "metadataUri": "https://cdn.jsdelivr.net/gh/dellmodrun/MossyPebble@main/metadata.json",
+  "pump": "https://pump.fun/coin/yPJvY6tY74JJiUTqu7HU5khSzPQz5EfVwjLmSE9pkYs",
+  "explorer": "https://explorer.solana.com/address/yPJvY6tY74JJiUTqu7HU5khSzPQz5EfVwjLmSE9pkYs",
+  "createdAt": "2026-11-02T12:38:26.000Z",
+  "slot": 464498194,
+  "status": "finalized"
+}
